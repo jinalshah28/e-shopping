@@ -1,0 +1,21 @@
+.header
+{
+    height: 200px;
+    padding: 30px 40px;
+    display: flex;
+    background-color: rgb(237, 244, 250);
+}
+.site-slogan
+{
+    width: 420px;
+    margin-left: 50px;
+    text-align: center;
+}
+.site-Image
+{
+    margin: 10px;
+}
+
+h2{
+    font-size: 45px;
+}

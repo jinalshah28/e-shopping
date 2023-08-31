@@ -1,0 +1,14 @@
+.not1
+{
+   margin: 10px 0px;
+   
+   text-align: center;
+   padding: 10px 20px;
+   
+   font-size: 18px;
+}
+.close
+{
+   float: right;
+   margin-top: -15px;
+}
