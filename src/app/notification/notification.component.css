@@ -12,3 +12,10 @@
    float: right;
    margin-top: -15px;
 }
+.fadOut
+{
+   visibility: hidden;
+   opacity: 0;
+   transition: visibility 0s 2s;
+   opacity:  2s linear;
+}
