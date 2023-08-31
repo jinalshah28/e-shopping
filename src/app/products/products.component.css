@@ -1,13 +1,14 @@
 .product-container
 {
-    display: flex;
+    display:flex;
     margin: 15px 0px;
     padding: 5px 5px;
     border-radius: 5px;
+    background-color: antiquewhite;
 }
 .image-container
 {
-    background-color: #fff;
+    background-color: #0f0f0f solid 1px;
     height: 70px;
     width: 70px;
     padding: 10px 0px;
@@ -19,7 +20,7 @@
 }
 .name-container
 {
-    margin: 0px 20px;
+    margin: 10px 20px;
 }
 details{
     width: 140px;

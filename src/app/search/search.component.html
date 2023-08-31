@@ -1,4 +1,4 @@
-<div class="search-div">
+<div class="search-div m-5" [ngClass]="{changeBackground:searchValue!=''}">
     <span><b>Search:</b></span>
     <input type="text" [(ngModel)]="searchValue">
     <span>You search for "{{searchValue}}"</span>
